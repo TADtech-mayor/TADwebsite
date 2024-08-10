@@ -1,0 +1,174 @@
+body {
+    background: black;
+    border: none;
+    color: white;
+}
+h1 , h2 , h3{
+  color: orange;
+}
+
+nav{
+   
+   border: none;
+}
+
+header{
+  
+  
+   border: solid orange;
+  background: orange;
+  border-radius: 10px 40px;
+}
+header h2{
+  color: #000;
+  padding-left: 10px;
+}
+
+main{
+  
+   border: none;
+   
+  
+}
+
+section{
+  
+   border: none;
+   width: 75%;
+  
+   
+}
+section p{
+  display: flex;
+  
+}
+
+aside{
+  
+   border: none;
+   width: 25%;
+}
+
+footer{
+  
+   border: none;
+}
+main div{
+  display: flex;
+  
+}
+nav ul{
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  border: solid orange;
+  background: orange;
+  border-radius: 10px 40px;
+  
+  
+}
+li a {
+  color: blue;
+  text-decoration: none;
+}
+main h2{
+  position: relative;
+  left: 100px;
+  
+}
+footer h2 {
+  position: relative;
+  left: 100px;
+}
+footer div  {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+footer div p {
+  padding: -6px;
+}
+
+footer a{
+  text-decoration: none;
+}
+
+/* css de connexion.html*/
+
+.cdiv1{
+   background: orange;
+   position: relative;
+   top: 100px;
+   left: 0;
+   padding: 50px;
+   border: 1px solid white;
+   border-radius: 10px 40px;
+  
+}
+.cspan1{
+  display: flex;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+form h2{
+  color: black;
+  position: relative;
+  left: 48px;
+}
+
+
+input{
+  background: transparent;
+  padding-bottom: 5px;
+  border: none;
+  outline: none;
+  border: 2px solid black;
+  color: white;
+  border-radius: 40px;
+  font-size: 16px;
+}
+::placeholder{
+  color: black;
+  margin: auto;
+  
+}
+
+.btn{
+  background: white;
+  color: orange;
+  border-radius: 10px 40px;
+}
+
+.cfooter{
+ position: relative;
+ top: 200px;
+ 
+  
+}  
+
+ 
+  
+
+ 
+ 
+  
+
+
+
+  
+  
+  
+
+
+
+/* css de produits */
+
+
+/* css de l'ensemble */
